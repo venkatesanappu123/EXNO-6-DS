@@ -18,10 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- ```
-Name : BALASURIYA M
-Register Number : 212224240021
-```
+
  ```
 import seaborn as sns
 import matplotlib.pyplot as plt
